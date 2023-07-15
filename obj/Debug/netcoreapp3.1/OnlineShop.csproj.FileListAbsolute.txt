@@ -1,0 +1,14 @@
+E:\PracProject\OOP\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+E:\PracProject\OOP\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+E:\PracProject\OOP\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+E:\PracProject\OOP\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+E:\PracProject\OOP\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+E:\PracProject\OOP\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+E:\PracProject\OOP\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.AssemblyReference.cache
+E:\PracProject\OOP\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\PracProject\OOP\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+E:\PracProject\OOP\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+E:\PracProject\OOP\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+E:\PracProject\OOP\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+E:\PracProject\OOP\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+E:\PracProject\OOP\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
